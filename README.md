@@ -7,7 +7,12 @@ https://doi.org/10.1016/j.compositesa.2024.108212
 
 ![image](https://github.com/user-attachments/assets/a450c35e-ae4f-4384-91f2-6f5a8594f894)
 
-Result:
+Features:
+- Build free-form 3D surface (saddle-like)
+- Geometrical computations (pin-jointed net)
+- Tool-path generation (TCP)
+- Curvature analysis (steering radius)
+- 3D Display
 
 ![image](https://github.com/user-attachments/assets/a2d1c187-3ba9-44b3-86bb-46c72d067aa1)
 
